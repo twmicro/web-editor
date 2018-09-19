@@ -1,0 +1,10 @@
+c:\users\chicherin\documents\visual studio 2015\Projects\WebEditor\WebEditor\bin\Debug\WebEditor.exe.config
+c:\users\chicherin\documents\visual studio 2015\Projects\WebEditor\WebEditor\bin\Debug\WebEditor.exe
+c:\users\chicherin\documents\visual studio 2015\Projects\WebEditor\WebEditor\bin\Debug\WebEditor.pdb
+c:\users\chicherin\documents\visual studio 2015\Projects\WebEditor\WebEditor\obj\Debug\WebEditor.csprojResolveAssemblyReference.cache
+c:\users\chicherin\documents\visual studio 2015\Projects\WebEditor\WebEditor\obj\Debug\WebEditor.MainForm.resources
+c:\users\chicherin\documents\visual studio 2015\Projects\WebEditor\WebEditor\obj\Debug\WebEditor.Properties.Resources.resources
+c:\users\chicherin\documents\visual studio 2015\Projects\WebEditor\WebEditor\obj\Debug\WebEditor.csproj.GenerateResource.Cache
+c:\users\chicherin\documents\visual studio 2015\Projects\WebEditor\WebEditor\obj\Debug\WebEditor.exe
+c:\users\chicherin\documents\visual studio 2015\Projects\WebEditor\WebEditor\obj\Debug\WebEditor.pdb
+C:\Users\Chicherin\documents\visual studio 2015\Projects\WebEditor\WebEditor\obj\Debug\WebEditor.CreateProjectDialog.resources
